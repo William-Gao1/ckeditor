@@ -58,7 +58,8 @@ ClassicEditor.builtinPlugins = [
 	Table,
 	TableToolbar,
 	TextTransformation,
-	Base64UploadAdapter
+	Base64UploadAdapter,
+	MediaEmbed
 ];
 
 // Editor configuration.
